@@ -1,6 +1,6 @@
 # -Real-time-Human-Detection
 For Picture
-python main.py - i <Path_to_image>
+python /n main.py - i <Path_to_image>
 
 For Video
 python main.py - v <Path_to_video>
